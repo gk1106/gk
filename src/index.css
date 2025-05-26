@@ -1,0 +1,7 @@
+@import "tailwindcss";
+.glass {
+  @apply backdrop-blur-md bg-white/10 border border-white/30 rounded-xl;
+}
+.glass {
+  @apply bg-white/10 backdrop-blur-md border border-white/30;
+}
